@@ -1,1 +1,4 @@
  daafafafsgadad 
+
+
+Промяна с Bash
